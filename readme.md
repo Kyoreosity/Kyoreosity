@@ -2,7 +2,7 @@
 * _Hey, I am ***@Kyoreosity.***_
 * A student who loves to play games. 👍
  
- Markup : <details>
+ <details>
            <summary>Wanna know more of who am I?</summary>
            <p>Hahahahahhaha no way.</p>
          </details>
