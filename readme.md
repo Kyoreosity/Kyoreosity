@@ -8,6 +8,7 @@
          </details>
          
 ## Life List ##
+
  Markup : - [x]  Went to other countries with family.
           - [x]  Finished elementary life.
           - [x]  Almost done with high school life.
