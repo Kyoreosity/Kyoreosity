@@ -3,8 +3,8 @@
 * A student who loves to play games. 👍
  
  <details>
-           <summary>Wanna know more of who am I?</summary>
-           <p>Hahahahahhaha no way.</p>
+           <summary>Wanna know more of who I am?</summary>
+           <p>Hahahahahhaha no way.. Get to know me better by adding me or becoming my friend <3</p>
          </details>
          
 ## Life List ##
