@@ -4,12 +4,12 @@
  
  <details>
            <summary>Wanna know more of who I am?</summary>
-           <p>Hahahahahhaha no way.. Get to know me better by adding me or becoming my friend <3</p>
+           <p>Hahahahahhaha no way.. Get to know me, only by adding me or becoming my friend <3</p>
          </details>
          
 ## Life List ##
 - [x]   Went to other countries with family.
-- [x]   Finished elementary life w/ High honors.
+- [x]   Finished elementary life w/ high honors.
 - [x]   Almost done with high school life.
 - [ ]   Senior high life is coming.
 - [ ]   Go visit a country alone or with friends.
