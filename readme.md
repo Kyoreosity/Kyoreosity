@@ -9,7 +9,7 @@
          
 ## Life List ##
 - [x]   Went to other countries with family.
-- [x]   Finished elementary life.
+- [x]   Finished elementary life w/ High honors.
 - [x]   Almost done with high school life.
 - [ ]   Senior high life is coming.
 - [ ]   Go visit a country alone or with friends.
