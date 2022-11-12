@@ -11,7 +11,7 @@
 - [x]   Went to other countries with family.
 - [x]   Finished elementary life w/ high honors.
 - [x]   Almost done with high school life.
-- [ ]   Senior high life is coming.
+- [x]   Senior high life is coming.
 - [ ]   Go visit a country alone or with friends.
 - [ ]   Meet your long distance friend.
           
