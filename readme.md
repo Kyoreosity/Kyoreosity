@@ -19,7 +19,7 @@
 
  Platforms    |    Names
 ------------- | -------------
-Discord       | Kyoréosity#0510
+Discord       | Kyoréosity#6996
 Steam         | @Kyoréosity
 
 #### Others ####
@@ -27,7 +27,7 @@ Steam         | @Kyoréosity
 >> "A single wave of a droplet is better to hear than a wave of sham compliments"
 
 > Profile picture creator:
->> Lenaaa <3 [Amazing Artist]
+>> Unknown T.T
 - - - -
 # _Lastly_ #
 * **Here's a picture of my lovely cat**
