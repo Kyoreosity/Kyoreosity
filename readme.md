@@ -32,4 +32,4 @@ Steam         | @Kyoréosity
 # _Lastly_ #
 * **Here's a picture of my lovely cat**
 
-![picture alt](https://www.instagram.com/p/CZCLCxPvEMb/?utm_source=ig_web_copy_link)
+![picture alt](https://instagram.fcrk1-1.fna.fbcdn.net/v/t51.2885-15/272258699_457296572774948_8327999287380754921_n.jpg?stp=dst-jpg_e35&_nc_ht=instagram.fcrk1-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=5IWbBlQxej0AX84vpmJ&tn=a7tY879vJUyBFvZl&edm=ALQROFkBAAAA&ccb=7-5&ig_cache_key=Mjc1NjgxNDQ5MDczMjA4NjA0Mw%3D%3D.2-ccb7-5&oh=00_AfAMul61kxvQu7V6qj4Ew66RNjwBUQZwFrXzGupVgEdamQ&oe=637378CF&_nc_sid=30a2ef)
