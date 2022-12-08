@@ -27,7 +27,7 @@ Steam         | @Kyoréosity
 >> "A single wave of a droplet is better to hear than a wave of sham compliments"
 
 > Profile picture creator:
->> Unknown T.T
+>> Kyoreosity
 - - - -
 # _Lastly_ #
 * **Here's a picture of my lovely cat**
