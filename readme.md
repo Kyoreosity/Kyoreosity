@@ -22,6 +22,8 @@
 Discord       | Kyoréosity#6996
 Steam         | @Kyoréosity
 
+[https://steamcommunity.com/id/Shikikansama/]
+
 #### Others ####
 > Quotes de Kyoreo'
 >> "A single wave of a droplet is better to hear than a wave of sham compliments"
@@ -30,6 +32,5 @@ Steam         | @Kyoréosity
 >> Kyoreosity
 - - - -
 # _Lastly_ #
-* **Here's a picture of my lovely cat**
-
-![picture alt](https://instagram.fcrk1-1.fna.fbcdn.net/v/t51.2885-15/272258699_457296572774948_8327999287380754921_n.jpg?stp=dst-jpg_e35&_nc_ht=instagram.fcrk1-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=5IWbBlQxej0AX84vpmJ&tn=a7tY879vJUyBFvZl&edm=ALQROFkBAAAA&ccb=7-5&ig_cache_key=Mjc1NjgxNDQ5MDczMjA4NjA0Mw%3D%3D.2-ccb7-5&oh=00_AfAMul61kxvQu7V6qj4Ew66RNjwBUQZwFrXzGupVgEdamQ&oe=637378CF&_nc_sid=30a2ef)
+* **--Here's a picture of my lovely cat--**
+* **Somehow, picture keeps getting 404**
